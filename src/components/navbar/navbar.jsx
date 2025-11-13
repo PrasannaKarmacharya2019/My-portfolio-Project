@@ -9,7 +9,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [useTyped, setUseTyped] = useState(true);
   const [mounted, setMounted] = useState(false);
-
+console.log(setUseTyped)
   const { theme, toggleTheme } = React.useContext(ThemeContext);
 
   useEffect(() => {
@@ -34,6 +34,7 @@ export default function Navbar() {
         <div className="logo-text">PK</div>
         <div className="brand-sub">
           {useTyped && mounted ? (
+            
             <ReactTyped
               strings={typedStrings}
               typeSpeed={40}
@@ -42,11 +43,14 @@ export default function Navbar() {
               smartBackspace
               showCursor={false}
               contentType="html"
-            />
+            /> 
+
           ) : (
             <span className="brand-sub-static">Front-End Developer</span>
+           
           )}
         </div>
+        
       </div>
 
       <button
