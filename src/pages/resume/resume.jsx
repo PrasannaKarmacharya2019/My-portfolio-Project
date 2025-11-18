@@ -14,15 +14,11 @@ export default function ResumePage() {
             alt="Resume Page 1" 
             className="resume-image"
           />
-          <img 
-            src="/Resumae/page_2.jpg" 
-            alt="Resume Page 2" 
-            className="resume-image"
-          />
+          
         </div>
         
         <a 
-          href="/Resumae/Prasanna%20Karmacharya%20r%C3%A9sum%C3%A9%20.docx" 
+          href="/Resumae/Prasanna_Karmacharya_Resume.docx" 
           download
           className="download-button"
         >
