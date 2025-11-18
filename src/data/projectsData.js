@@ -13,7 +13,7 @@ const projects = [
     image: '/photos/dummy_Netflix.png',
     about: 'A Netflix-like UI built to browse movies and demos. Focus on responsive layout and card grid.',
     tech: ['HTML', 'CSS', 'JavaScript', 'React.js', "Node.js"],
-    website: 'mellow-klepon-529b9f.netlify.app'
+    website: 'https://mellow-klepon-529b9f.netlify.app/'
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ const projects = [
     image: '/photos/Portfolio.png',
     about: 'Current portfolio showcase and Project.',
     tech: ['React', 'SCSS', 'Figma'],
-    website: 'prasannakarmacharya.com.np'
+    website: 'https://prasannakarmacharya.com.np/'
   }
 ];
 
