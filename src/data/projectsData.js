@@ -37,7 +37,7 @@ const projects = [
     title: 'Old Portfolio',
     image: '/photos/old_portfolio.png',
     about: 'Previous portfolio version — archived for reference.',
-    tech: ['HTML', 'SCSS', 'JavaScript'],
+    tech: ['HTML', 'CSS', 'JavaScript'],
     website: 'https://thunderous-semolina-9e399e.netlify.app/'
   },
   {
