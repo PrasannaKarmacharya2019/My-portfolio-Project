@@ -8,6 +8,14 @@ const projects = [
     website: 'https://icnepal.com.np/'
   },
   {
+    id: 6,
+    title: 'Portfolio',
+    image: '/photos/Portfolio.png',
+    about: 'Current portfolio showcase and Project.',
+    tech: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js','React Router DOM', 'React Slick', 'Slick-carousel'],
+    website: 'https://prasannakarmacharya.com.np/'
+  },
+  {
     id: 1,
     title: 'Dummy Netflix',
     image: '/photos/dummy_Netflix.png',
@@ -39,15 +47,8 @@ const projects = [
     about: 'Previous portfolio version — archived for reference.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     website: 'https://thunderous-semolina-9e399e.netlify.app/'
-  },
-  {
-    id: 6,
-    title: 'Portfolio',
-    image: '/photos/Portfolio.png',
-    about: 'Current portfolio showcase and Project.',
-    tech: ['React', 'SCSS', 'Figma'],
-    website: 'https://prasannakarmacharya.com.np/'
   }
+  
 ];
 
 export default projects;
