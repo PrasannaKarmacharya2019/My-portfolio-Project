@@ -12,7 +12,7 @@ const projects = [
     title: 'Portfolio',
     image: '/photos/Portfolio.png',
     about: 'Current portfolio showcase and Project.',
-    tech: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js','React Router DOM', 'React Slick', 'Slick-carousel'],
+    tech: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js','React Router DOM'],
     website: 'https://prasannakarmacharya.com.np/'
   },
   {
