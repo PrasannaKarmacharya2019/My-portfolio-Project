@@ -5,7 +5,7 @@ const projects = [
   image: '/photos/perfume.png',
   about: 'Responsive perfume e-commerce landing page, applying prototyping, animation, typography, color theory, and UX principles to create an elegant, conversion-focused user experience.',
   tech: ['Figma','Wireframing','Prototyping'],
-  website: 'https://www.figma.com/design/LoiicwbyZR9YCCRE8aVW1S/Perfume-Design?node-id=2-2&t=2sd3jjq1fQVrX7oL-1'
+  website: 'https://www.figma.com/proto/LoiicwbyZR9YCCRE8aVW1S/Perfume-Design?node-id=2-2&t=8nWSaCnvrRZ8SpNQ-1'
 },
 
   {
