@@ -53,7 +53,7 @@ const projects = [
   title: 'Tic-Tac-Toe Game for Multiplayer',
   image: '/photos/game.png',
   about: 'Multiplayer game with utilizing local storage for persistent data, Specific implementation (score tracking)',
-  tech: ['HTML', 'CSS', 'JavaScript'],
+  tech: ['HTML', 'CSS', 'JavaScript','Local Storage'],
   website: 'https://resplendent-caramel-630e92.netlify.app/'
 }
   
