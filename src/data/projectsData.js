@@ -1,4 +1,13 @@
 const projects = [
+{
+  id: 8,
+  title: 'Fragrance E-Commerce',
+  image: '/photos/perfume.png',
+  about: 'Responsive perfume e-commerce landing page, applying prototyping, animation, typography, color theory, and UX principles to create an elegant, conversion-focused user experience.',
+  tech: ['Figma','Wireframing','Prototyping'],
+  website: 'https://www.figma.com/design/LoiicwbyZR9YCCRE8aVW1S/Perfume-Design?node-id=2-2&t=2sd3jjq1fQVrX7oL-1'
+},
+
   {
     id: 4,
     title: 'ICON-website',
@@ -55,7 +64,8 @@ const projects = [
   about: 'Multiplayer game with utilizing local storage for persistent data, Specific implementation (score tracking)',
   tech: ['HTML', 'CSS', 'JavaScript','Local Storage'],
   website: 'https://resplendent-caramel-630e92.netlify.app/'
-}
+},
+
   
 ];
 
