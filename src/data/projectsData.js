@@ -47,7 +47,15 @@ const projects = [
     about: 'Previous portfolio version — archived for reference.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     website: 'https://thunderous-semolina-9e399e.netlify.app/'
-  }
+  },
+   {
+  id: 7,
+  title: 'Tic-Tac-Toe Game for Multiplayer',
+  image: '/photos/game.png',
+  about: 'Multiplayer game with utilizing local storage for persistent data, Specific implementation (score tracking)',
+  tech: ['HTML', 'CSS', 'JavaScript'],
+  website: 'https://resplendent-caramel-630e92.netlify.app/'
+}
   
 ];
 
